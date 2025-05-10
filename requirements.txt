@@ -1,0 +1,10 @@
+langchain
+langgraph
+streamlit
+langchain-openai
+langchainhub
+tavily-python
+load-dotenv
+langchain-community
+langchain-tavily
+
